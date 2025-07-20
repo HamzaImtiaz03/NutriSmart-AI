@@ -131,7 +131,7 @@ With a clean interface built using **Streamlit**, NutriSmart AI also supports **
 6. **Run the App**
 
    ```bash
-   streamlit run streamlit_app.py
+   streamlit run backend/app.py
    ```
 
 Access the app at **[http://localhost:8501](http://localhost:8501)**
