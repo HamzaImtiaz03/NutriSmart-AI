@@ -1,0 +1,12 @@
+flask
+requests
+pillow
+plotly
+streamlit
+streamlit_option_menu
+flask-cors
+python-dotenv
+flask-sqlalchemy
+flask-migrate
+CORS
+stripe
